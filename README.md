@@ -1,6 +1,5 @@
 # 🏠 Homiq - Real Estate Frontend
 
----
 
 ## 🌐 Live Demo
 
