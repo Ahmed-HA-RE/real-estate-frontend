@@ -1,8 +1,12 @@
 # 🏠 Homiq - Real Estate Frontend
 
+---
+
 ## 🌐 Live Demo
 
 [Live Demo](https://homiq.ahmedrehandev.net)
+
+---
 
 ### ⚡ Tech Stack
 
@@ -17,6 +21,8 @@
 - ✨ **Framer Motion (Animations)**
 - 📡 **Axios**
 
+---
+
 ### 📌 Description
 
 Homiq Frontend is fully responsive with excellent UI layouts. Features include:
@@ -26,9 +32,13 @@ Homiq Frontend is fully responsive with excellent UI layouts. Features include:
 - 📞 Contact Us section
 - ⭐ Adding reviews
 
+---
+
 ### 📸 Screenshot:
 
 ![frontend image](./public/frontend.jpg)
+
+---
 
 ### 💻 Installation & Run
 
@@ -42,6 +52,8 @@ npm install
 # Run in development mode
 npm run dev
 ```
+---
+
 
 ### MIT License:
 
